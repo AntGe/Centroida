@@ -3,7 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//Write a C# Sharp program that takes a number and a width also a number, as input and then displays a triangle of that width, using that number. Go to the editor
+//Test Data
+//Enter a number: 6 
+//Enter the desired width: 6 
+//Expected Output :
 
+//666666                                                      
+//66666                                                           
+//6666                                                                  
+//666                                                        
+//66                                                                  
+//6 
 namespace Ex_2
 {
     class Triangle

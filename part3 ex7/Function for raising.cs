@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Write a program in C# Sharp to create a function to calculate the result of raising an integer number to another. Go to the editor
+//Test Data : 
+//Input Base number: 3 
+//Input the Exponent : 2 
+//Expected Output : 
+//So, the number 3 ^ (to the power) 2 = 9
 namespace part3_ex7
 {
     class Program

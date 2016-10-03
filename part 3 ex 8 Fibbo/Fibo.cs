@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Write a program in C# Sharp to create a function to display the n number fibonacci sequence. Go to the editor
+//Test Data : 
+//Input number of Fibonacci Series : 5 
+//Expected Output : 
+//The Fibonacci series of 5 numbers is : 
+//0 1 1 2 3
 namespace part_3_ex_8_Fibbo
 {
     class Fibo

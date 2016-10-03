@@ -3,7 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Write a C# Sharp program that takes distance and time as input and display the speed in kilometers per hour and miles per hour. Go to the editor
+//Test Data:
+//Input distance(meters): 50000 
+//Input timeSec(hour): 1 
+//Input timeSec(minutes): 35
+//Input timeSec(seconds): 56
+//Expected Output:
+//Your speed in meters/sec is 8.686588
+//Your speed in km/h is 31.27172 
+//Your speed in miles/h is 19.4355
 namespace Ex7
 {
     class Program
