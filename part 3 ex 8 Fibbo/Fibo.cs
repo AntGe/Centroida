@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace part_3_ex_8_Fibbo
 {
-    class Program
+    class Fibo
     {
         public static int Fibonacci(int n)
         {

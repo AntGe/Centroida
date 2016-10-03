@@ -10,12 +10,16 @@ namespace Ex_6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("  x = y2 + 2y + 1  = :");
+            Console.WriteLine("  x = y * y + 2y + 1 ");
             for (int i = -5; i <= 5; i++)
             {
                 int y = i;
-                Console.WriteLine(Math.Pow(y,2) + 2 * y + 1);
-               
+                Console.WriteLine(i);
+                Console.WriteLine("  x = {0}", Math.Pow(y, 2) + 2 * y + 1);
+                Console.WriteLine("  y = {0}",y);
+                Console.WriteLine();
+
+
             }
         }
     }
